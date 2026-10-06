@@ -41,6 +41,3 @@ This project was developed to practice Python programming concepts and understan
 2. Open the project folder in the terminal.
 3. Run the Python main file.
 
-```bash
-python main.py
-```
